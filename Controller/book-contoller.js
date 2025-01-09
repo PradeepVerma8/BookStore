@@ -1,5 +1,4 @@
 import Book from "../modal/book.modal.js";
-
 export const getBook =async(req,res)=>{
     try {
         
